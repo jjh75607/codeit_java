@@ -1,29 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="70659295-f4e9-4999-8387-8f4521d80942" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/kotlinc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="ae3a9c8e-105c-42c3-95f8-b410ad3be0be" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled/META-INF/untitled.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled/ShapePrinter/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled/ShapePrinter/ShapePrinter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled/bank/BankAccount.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled/bank/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled/bank/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled/greatestDifferenceFinder/GreatestDifferenceFinder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled/greatestDifferenceFinder/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled/sale/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled/sale/MarketGood.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled/scanner/Main.class" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -41,10 +22,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1P8qRxHUx4J3xEZEGOUO562RLrD" />
+  <component name="ProjectId" id="1PJiTsqXLSJWMLSrAktbcDCEoIS" />
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -60,11 +40,11 @@
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="UnitConverter.Main" />
+      <option name="MAIN_CLASS_NAME" value="kimsin.Main" />
       <module name="codeit_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="UnitConverter.*" />
+          <option name="PATTERN" value="kimsin.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,11 +63,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="70659295-f4e9-4999-8387-8f4521d80942" name="Default Changelist" comment="" />
-      <created>1565266066594</created>
+      <changelist id="ae3a9c8e-105c-42c3-95f8-b410ad3be0be" name="Default Changelist" comment="" />
+      <created>1565598610341</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1565266066594</updated>
+      <updated>1565598610341</updated>
     </task>
     <servers />
   </component>
@@ -96,9 +76,7 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
