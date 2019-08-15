@@ -151,6 +151,8 @@
             <li>HashMap</li>
             <li>HashMap 노트</li>
             <li>나의 영어사전</li>
+            <li>나의 영어사전 해설</li>
+            <li>포켓몬 GO</li>
         </ul>
     </li>
     <li>
