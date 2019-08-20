@@ -4,6 +4,8 @@
     <list default="true" id="85c80616-718c-4390-9431-0b6263d33642" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codeit_java/blackJack/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codeit_java/blackJack/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/blackJack/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/blackJack/Main.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
