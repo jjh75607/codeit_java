@@ -177,7 +177,13 @@
             <li>캐스팅 정리</li>
             <li>블랙잭 pt.2</li>
             <li>블랙잭 pt.2 해설</li>
+            <li>제네릭 (Generic)</li>
+            <li>제네릭 extends</li>
+            <li>제네릭 extends 정리</li>
+            <li>블랙잭 pt. 3</li>
+            <li>블랙잭 pt. 3 해설</li>
         </ul>
+    </li>
     </li>
     <li>
         인터페이스와 추상 클래스

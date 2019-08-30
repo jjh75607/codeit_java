@@ -1,20 +1,24 @@
 package blackJack;
 
-import java.util.ArrayList;
-
-public class BlackjackHand extends Deck {
-
+public class BlackjackHand<T extends Card> extends Deck<BlackjackCard> {
     public int getValue() {
-        int i = 0;
-        for (Card card : getCards()) {
-            i += new BlackjackCard(card.suitNumber, card.rankNumber).getValue();
+        int value = 0;
+        int aceCount = 0;
 
-            if (i > 21 && card.rankNumber == 1) {
-                i -= 10;
+        for (BlackjackCard card : getCards()) {
+            if (card.isAce()) {
+                aceCount++;
             }
+
+            value += card.getValue();
         }
 
-        return i;
+        while (aceCount > 0 && value > 21) {
+            value -= 10;
+            aceCount--;
+        }
+
+        return value;
     }
 
     public boolean isBusted() {
@@ -22,8 +26,6 @@ public class BlackjackHand extends Deck {
     }
 
     public boolean isBlackjack() {
-        return getCards().size() == 2 && getValue() == 21;
+        return getValue() == 21 && getCards().size() == 2;
     }
-
-
 }
