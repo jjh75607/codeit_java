@@ -3,9 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="85c80616-718c-4390-9431-0b6263d33642" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codeit_java/blackJack/Deck.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codeit_java/blackJack/Deck.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codeit_java/blackJack/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codeit_java/blackJack/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/blackJack/BlackjackHand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/blackJack/BlackjackHand.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +40,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (3)">
+  <component name="RunManager" selected="Application.Main (4)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="wordDict.Main" />
       <module name="codeit_java" />
@@ -82,6 +80,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="animalPark.Main" />
+      <module name="codeit_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="animalPark.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="kimsin.Main" />
       <module name="codeit_java" />
@@ -97,6 +108,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (4)" />
         <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />

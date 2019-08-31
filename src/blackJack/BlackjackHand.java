@@ -1,6 +1,6 @@
 package blackJack;
 
-public class BlackjackHand<T extends Card> extends Deck<BlackjackCard> {
+public  class BlackjackHand<T extends Card> extends Deck<BlackjackCard> {
     public int getValue() {
         int value = 0;
         int aceCount = 0;
